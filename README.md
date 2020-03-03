@@ -3,7 +3,7 @@
 
 Creator's Note
 ----------
-This project is one of my first "programming" projects (As are most of my Gamemaker projects). The project can probably be done better, but I still wanted to upload it. It works and it's a good starting point for beginners or to get a prototype quickly running.
+This project is one of my first "programming" projects (As are most of my Gamemaker projects). The project can possibly be done better, but I still wanted to upload it. It works and it's a good starting point for beginners or to get a prototype quickly running.
 
 Features
 ----------
